@@ -8,21 +8,48 @@
   <img alt="Open to internships" src="https://img.shields.io/badge/Open%20to%20internships-087F8C?style=for-the-badge" />
 </p>
 
-<p align="center"><b>Aspiring data science professional · Python developer · Curious learner</b></p>
+<p align="center"><b>Final-year IT student · DataBinaries intern · Data, AI & cloud enthusiast</b></p>
 
 ## 👋 A little about me
 
-Hi, I'm **Danish**, a final-year **B.Tech Information Technology student** interested in **data science, machine learning, and computer vision**. I'm developing my skills through academic projects that turn data and models into applications people can use.
+Hi, I'm **Danish Shaikh**, a final-year **B.Tech Information Technology student at MGM College of Engineering & Technology**, with an expected graduation in **June 2027**.
 
-My interests span the whole process: preparing data, understanding model predictions, connecting a Python backend to a web interface, and making results clear to the user. I'm especially interested in how machine learning can support practical decisions.
+I'm interested in the connection between **data, intelligent applications, and the infrastructure that supports them**. My learning spans data science, machine learning, AWS, Linux administration, DataOps, and DevOps, with a growing interest in enterprise AI.
 
-I'm preparing for college placements and looking for **internship and graduate opportunities** in data science, machine learning, and Python development. I want to contribute to a team, learn from experienced engineers, and keep improving through practical work.
+Alongside my degree, I'm a **part-time intern at DataBinaries**, where my learning and work focus includes DevOps, exploratory data analysis, and feature engineering. My academic projects give me another way to explore these interests through Python, computer vision, model explanations, and web application development.
 
-| 🎓 Where I am | 🔎 What interests me | 🌱 Where I'm heading |
+I'm preparing for college placements and looking for opportunities to develop practical skills, contribute to a team, and grow in **data science, machine learning, and cloud-related development**.
+
+| 🎓 Education | 💼 Experience | 🔎 Interests |
 | :--- | :--- | :--- |
-| Final-year B.Tech IT student | Data analysis and predictive modelling | Stronger data science foundations |
-| Building academic applications | Computer vision and explainable AI | Reliable ML applications |
-| Preparing for placements | Python APIs and web development | Internship and graduate opportunities |
+| B.Tech in Information Technology | Intern at DataBinaries | Data science & machine learning |
+| MGM College of Engineering & Technology | Part-time · Since July 2026 | AWS & Linux administration |
+| Expected graduation: June 2027 | DevOps, EDA & feature engineering | DataOps, DevOps & enterprise AI |
+
+## 💼 Experience
+
+### DataBinaries · Intern
+**July 2026 – Present · Part-time**
+
+Developing practical experience in **DevOps, exploratory data analysis, and feature engineering**, alongside exposure to **cloud computing and Linux system administration**.
+
+## 🎓 Education
+
+**Bachelor of Technology — Information Technology**  
+MGM College of Engineering & Technology  
+**May 2024 – June 2027 (expected)**
+
+My academic and project interests connect software development, data science, cloud computing, and machine learning.
+
+## 🏅 Workshops & learning credentials
+
+| Learning activity | Organizer / context | Listed issue date |
+| :--- | :--- | :--- |
+| Cloud Computing Workshop | Techfest, IIT Bombay, in collaboration with AWS · Participation certificate | January 2025 |
+| Google Cloud Computing Foundations & Generative AI | Google Cloud Study Jam · Learning program | November 2024 |
+| Android Development Workshop | Google Developer Student Clubs, UDICT MGM University · Two-day workshop | November 2024 |
+
+[View the credential entries on LinkedIn →](https://www.linkedin.com/in/danish-shaikh-705726z/details/certifications/)
 
 ## 🧭 What I'm learning and exploring
 
@@ -30,13 +57,15 @@ I'm preparing for college placements and looking for **internship and graduate o
 - **Computer vision:** object detection, image-based inference, and generalization to new photographs.
 - **Explainable AI:** understanding which features influence a model's predictions.
 - **Application development:** APIs, authentication, databases, and frontend integration.
+- **Cloud & systems:** AWS fundamentals and Linux system administration.
+- **DataOps & DevOps:** exploring how data workflows, development, and operations connect.
 - **Deployment:** connecting frontend and backend services and improving persistent storage.
 
 My current goals are to make experiments easier to reproduce, understand model limitations more clearly, and improve the reliability of my applications.
 
-## 🛠️ My project toolkit
+## 🛠️ Technical toolkit
 
-These are technologies used across my academic projects.
+Technologies used across my academic projects, followed by my broader learning areas.
 
 **Languages & web**
 
@@ -70,6 +99,16 @@ These are technologies used across my academic projects.
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-16729A?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" />
 <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-AD7400?style=for-the-badge&amp;logo=googlecolab&amp;logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-147DC0?style=for-the-badge" />
+</p>
+
+**Cloud & operations — learning areas**
+
+<p>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-E68A00?style=for-the-badge" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-343A46?style=for-the-badge&amp;logo=linux&amp;logoColor=white" />
+<img alt="DevOps" src="https://img.shields.io/badge/DevOps-167D9A?style=for-the-badge" />
+<img alt="DataOps" src="https://img.shields.io/badge/DataOps-725CE8?style=for-the-badge" />
+<img alt="Generative AI" src="https://img.shields.io/badge/Generative%20AI-B34090?style=for-the-badge" />
 </p>
 
 ## 🚀 Selected work
